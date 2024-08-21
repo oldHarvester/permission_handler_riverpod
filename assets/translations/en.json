@@ -1,0 +1,8 @@
+{
+    "allow": "Allow",
+    "later": "Later",
+    "notification_permission": "Notification permission",
+    "notification_permission_description": "Allow notifications to receive alerts about important events",
+    "location_permission": "Location permission",
+    "location_permission_description": "Allow location permission to search near you"
+}

@@ -1,0 +1,8 @@
+{
+    "allow": "Разрешить",
+    "later": "Позже",
+    "notification_permission": "Доступ к уведомлениям",
+    "notification_permission_description": "Предоставьте доступ к уведомлениям для получения оповещений о важных событиях",
+    "location_permission": "Доступ к местоположению",
+    "location_permission_description": "Предоставьте доступ к местоположению для поиска возле вас"
+}
